@@ -1,0 +1,29 @@
+# Trailing stop MT5
+
+## Description
+This folder contains a professional trading expert advisor (EA) for MetaTrader 5.
+
+Below are example screenshots of the strategy in action.  
+*Feel free to explore, test, and improve!*
+
+*You can add a detailed description of the strategy, parameters, and usage here.*
+
+---
+
+If you find this project useful, please consider giving it a star, sharing it, or even sending a small donation to support further development. Thank you!
+
+![Screenshot](616ECFD8-DEAF.jpg)
+![Screenshot](6194A5E9-5C3B.png)
+![Screenshot](66fa64f1-38fc.jpg)
+![Screenshot](library.png)
+![Screenshot](Trailing_stop_2__3.jpg)
+![Screenshot](Trailing_stop__5.jpg)
+
+## Files
+- `sampletrailingstop-mt5.mq5`
+
+## How to use
+1. Copy the `.mq5` file to your MetaTrader 5 `Experts` folder.
+2. Compile in MetaEditor.
+3. Attach the expert to a chart.
+4. Configure parameters as needed.
